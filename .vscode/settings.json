@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 14,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "eslint.enable": true,
+    "jshint.enable": true,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true
+}
