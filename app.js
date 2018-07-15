@@ -1,3 +1,1 @@
 # Bugetty
-
-console.log("Hello");
