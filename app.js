@@ -1,0 +1,3 @@
+# Bugetty
+
+console.log("Hello");
