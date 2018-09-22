@@ -1,3 +1,3 @@
 # Bugetty
 
-this is a project
+this is a first project
